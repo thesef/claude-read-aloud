@@ -1,0 +1,11 @@
+{
+  "name": "read-aloud",
+  "version": "0.1.0",
+  "description": "Right-click selected chat text to read only that part aloud",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "thesef"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/thesef/claude-read-aloud"
+}

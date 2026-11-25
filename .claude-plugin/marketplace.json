@@ -1,0 +1,13 @@
+{
+  "name": "claude-read-aloud",
+  "owner": {
+    "name": "thesef"
+  },
+  "plugins": [
+    {
+      "name": "read-aloud",
+      "source": "./"
+    }
+  ],
+  "description": "Read selected Claude chat text aloud with a player bar (skip, pause, speed)"
+}
